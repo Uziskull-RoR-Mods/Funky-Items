@@ -1,0 +1,30 @@
+This mod adds 16 total unique items! Ranging from custom-made and well thought out items to memey *"I have no creativity"* items, you'll surely find something to have fun with in ***Funky Items***!
+
+#### **Common**
++ **Bundle of Balloons** - Lowers falling speed. Hold *Down* to fall faster.
++ **Banana Peel** - Occasionally throw a banana peel on the floor. Enemies slip and fall on these.
++ **Hacked Shield** - After recharging, has a chance to block the next oncoming attack.
++ **Sexy Bandana** - Lowers the armor of every enemy nearby.
++ **Ninja Suit** - Lowers your current armor, but increases speed.
+
+#### **Uncommon**
++ **Fibonacci's Thesis** - Extra attack speed if the total item count is part of the Fibonacci sequence.
++ **The Binding of Pi** - Boosts damage for every correct digit of pi among your items' quantity. Cuts damage in half if none are present.
++ **Water Jug** - Hold *Jump* to float underwater.
++ **Portable Freezer** - Every attack slows enemies and marks them. At four marks, freezes the enemy.
+
+#### **Rare**
++ **Necromancer's Blight** - If off cooldown, upon using an ability, your next attack deals double damage.
++ **Flaming Toaster** - Every attack charges the toaster until it goes off, launching edible flaming toast.
++ **Squeaky Bone** - Spawns a companion dog to fight alongside you. More bones == more dogs (up to four per player).
+
+#### **Use**
++ **Redeemer** - Fires a remote-controlled nuke that explodes on impact (or by pressing *Jump*).
++ **Diamond Pickaxe** - Swing a pickaxe forwards, dealing damage. Has a chance of dropping valuable ores. Has limited durability.
++ **Super Star** - Become invincible and triple your movement speed temporarily.
++ **Jarate** - Throw a jar against enemies, marking them temporarily. Attacks against marked enemies always critical strike.
+
+### **Changelog:**
++ *0.1.0* - Initial release.
+    + *0.1.1* - Several bug fixes regarding *The Binding of Pi*, *Flaming Toaster* and *Banana Peel*.
+    + *0.1.2* - Removed leftover debug function, and fixed bug with *Banana Peel*.
